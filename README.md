@@ -2,19 +2,36 @@ AI for Product Managers
 
 A curated collection of AI workflows, prompts, and operational templates for product teams.
 
+This repository focuses on practical AI-assisted systems for:
+
+* Product planning
+* Operational management
+* Customer support workflows
+* QA structuring
+* Policy documentation
+* Event operations
+
 Included
 
-PRD prompt templates
+PRD Prompt Templates
 
-QA scenario generation
+Templates for generating structured PRDs with AI assistance.
 
-Customer support workflows
+Customer Support Scenarios
 
-Event operation templates
+Operational handling structures for exception cases and support workflows.
 
-Policy documentation structures
+QA Validation Structures
 
-AI prompt libraries for PMs
+Reusable QA and edge-case validation frameworks.
+
+Event Operations
+
+Templates for campaign operation and event coordination.
+
+AI Prompt Libraries
+
+Reusable prompts for PMs, operators, and marketing teams.
 
 Goal
 
